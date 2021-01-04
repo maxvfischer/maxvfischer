@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/projects.gif?raw=true" width="384" height="525" />
+<img align="right" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/projects.gif?raw=true" width="384" height="450" />
