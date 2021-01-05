@@ -1,2 +1,2 @@
 <img style="display: block;" align="center" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/banner.gif?raw=true"/>
-<img style="display: block;" align="center" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/frameworks.png?raw=true"/>
+<img style="display: block;" align="center" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/framework.gif?raw=true"/>
