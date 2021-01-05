@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="center" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/banner.gif?raw=true"/>
 
 <!--
 **maxvfischer/maxvfischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <img align="right" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/projects.gif?raw=true" width="384" height="450" />
+-->
