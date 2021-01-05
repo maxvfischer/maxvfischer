@@ -1,5 +1,8 @@
 <img style="display: block;" align="center" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/banner.gif?raw=true"/>
 <img style="display: block;" align="center" alt="GIF" src="https://github.com/maxvfischer/maxvfischer/blob/add-gif/images/frameworks.png?raw=true"/>
+<div align="center">
+    <p>(also like bulding things)</p>
+</div>
 
 <!--
 **maxvfischer/maxvfischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
